@@ -34,6 +34,7 @@ public class ShapeMain {
         System.out.println("Luas Lingkaran: " + circle.getArea());
 
         // Perhitungan Luas Persegi Panjang
+        System.out.println("Perhitungan Luas Persegi Panjang");
         System.out.println("=========================");
 
         // Masukan warna
